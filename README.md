@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**mattdecrevel/mattdecrevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/mattdecrevel" target="blank"><img src="https://img.shields.io/twitter/follow/mattdecrevel?logo=twitter&style=for-the-badge" alt="mattdecrevel" /></a> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
