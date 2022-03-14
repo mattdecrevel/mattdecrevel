@@ -16,7 +16,7 @@
 
   <a href="https://app.daily.dev/mattdecrevel">
     <img 
-         src="https://github.com/mattdecrevel/mattdecrevel/main/devcard.svg" 
+         src="https://github.com/mattdecrevel/mattdecrevel/blob/main/devcard.svg" 
          align="right"
          width="256" 
          alt="Matt Decrevel's Dev Card"/>
