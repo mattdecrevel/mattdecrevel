@@ -1,0 +1,31 @@
+name: GitHub metrics
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # once a day at 12:00 UTC
+  workflow_dispatch:        # lets you run it on demand from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics.svg
+        uses: lowlighter/metrics@latest
+        with:
+          # This is the secret you create. The Action draws your stats AND
+          # commits github-metrics.svg back into this repo automatically.
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: mattdecrevel
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Chicago
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
