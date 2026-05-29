@@ -1,35 +1,40 @@
-# Hi there 👋
+<div align="center">
 
-<div align="left">
-  <a href="https://twitter.com/mattdecrevel" target="_blank">
-    <img
-      src="https://img.shields.io/twitter/follow/mattdecrevel?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
-      alt="Twitter"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/mattdecrevel/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
+# Hi, I'm Matt 👋
 
-  <a href="https://app.daily.dev/mattdecrevel">
-    <img 
-         src="https://github.com/mattdecrevel/mattdecrevel/blob/main/devcard.svg" 
-         align="right"
-         width="256" 
-         alt="Matt Decrevel's Dev Card"/>
-  </a>
+**Fractional CTO** · Full-stack engineer · Practical, affordable AI for small business
+
 </div>
-<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- PRFLIO:START -->
+I help small-to-midsize businesses use web technology and AI in ways that are practical, affordable, and actually useful.
 
+📍 Troy · Edwardsville · Glen Carbon, IL
+
+[mattdecrevel.com](https://www.mattdecrevel.com) &nbsp;·&nbsp; [decrevel.dev](https://www.decrevel.dev) &nbsp;·&nbsp; [poyse.io](https://www.poyse.io)
+
+<a href="https://linkedin.com/in/mattdecrevel"><img src="https://api.iconify.design/fa6-brands/linkedin.svg?color=%237aa2f7&height=26" height="26" alt="LinkedIn" /></a> &nbsp;
+<a href="https://x.com/mattdecrevel"><img src="https://api.iconify.design/fa6-brands/x-twitter.svg?color=%237aa2f7&height=26" height="26" alt="X" /></a> &nbsp;
+<a href="https://threads.net/@mattdecrevel"><img src="https://api.iconify.design/fa6-brands/threads.svg?color=%237aa2f7&height=26" height="26" alt="Threads" /></a> &nbsp;
+<a href="https://instagram.com/mattdecrevel"><img src="https://api.iconify.design/fa6-brands/instagram.svg?color=%237aa2f7&height=26" height="26" alt="Instagram" /></a> &nbsp;
+<a href="https://github.com/mattdecrevel"><img src="https://api.iconify.design/fa6-brands/github.svg?color=%237aa2f7&height=26" height="26" alt="GitHub" /></a>
+<!-- PRFLIO:END -->
+
+### 🛠️ Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Postgres](https://img.shields.io/badge/Neon%20Postgres-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+### 📰 What I'm reading
+
+<!-- DAILY_DEV_CARD:START -->
+<!-- DAILY_DEV_CARD:END -->
