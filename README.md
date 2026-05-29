@@ -1,17 +1,7 @@
-<div align="center">
-
 # Hi, I'm Matt 👋
+Full-stack engineer · Practical, affordable AI for small business
 
-**Fractional CTO** · Full-stack engineer · Practical, affordable AI for small business
-
-</div>
-
-<!-- PRFLIO:START -->
-I help small-to-midsize businesses use web technology and AI in ways that are practical, affordable, and actually useful.
-
-📍 Troy · Edwardsville · Glen Carbon, IL
-
-[mattdecrevel.com](https://www.mattdecrevel.com) &nbsp;·&nbsp; [decrevel.dev](https://www.decrevel.dev) &nbsp;·&nbsp; [poyse.io](https://www.poyse.io)
+[mattdecrevel.com](https://www.mattdecrevel.com) &nbsp;·&nbsp; [decrevel.dev](https://www.decrevel.dev) &nbsp;·&nbsp; [prflio.com](https://prflio.com) &nbsp;·&nbsp; [thepicksproject.com](https://www.thepicksproject.com) &nbsp;·&nbsp; [poyse.io](https://www.poyse.io)
 
 <a href="https://linkedin.com/in/mattdecrevel"><img src="https://api.iconify.design/fa6-brands/linkedin.svg?color=%237aa2f7&height=26" height="26" alt="LinkedIn" /></a> &nbsp;
 <a href="https://x.com/mattdecrevel"><img src="https://api.iconify.design/fa6-brands/x-twitter.svg?color=%237aa2f7&height=26" height="26" alt="X" /></a> &nbsp;
@@ -33,8 +23,3 @@ I help small-to-midsize businesses use web technology and AI in ways that are pr
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-### 📰 What I'm reading
-
-<!-- DAILY_DEV_CARD:START -->
-<!-- DAILY_DEV_CARD:END -->
